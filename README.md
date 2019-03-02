@@ -7,7 +7,7 @@ We consider both regression and classification algorithm and compare results in 
 Results are improved by a Grid-search strategy on grid parameter with a Cross-validation.
 
 <p align="center">
-  <img src="https://github.com/christelle-git/mushroom-classification/blob/master/cheers.gif">
+  <img src="https://github.com/christelle-git/Red-wine-classification/blob/master/cheers.gif">
 </p>
 
 
